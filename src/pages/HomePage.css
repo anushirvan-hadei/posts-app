@@ -1,0 +1,8 @@
+.form-control:focus {
+    border-color: #24a3b4;
+    box-shadow: 0 0 0 0.2rem rgba(26, 100, 154, 0.25);
+}
+
+.button-new-post {
+    height: fit-content;
+}
